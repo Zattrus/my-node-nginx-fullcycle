@@ -1,0 +1,16 @@
+{
+  "name": "full-cycle-app",
+  "version": "1.0.0",
+  "description": "Desafio Full Cycle - Nginx Proxy Reverso",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Gabriel Amâncio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
